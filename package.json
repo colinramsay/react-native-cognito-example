@@ -1,0 +1,14 @@
+{
+  "name": "FacebookAwsReactNative",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.20.0",
+    "react-native-aws-signature": "0.0.9",
+    "react-native-fbsdkcore": "0.0.8",
+    "react-native-fbsdklogin": "0.0.8"
+  }
+}
