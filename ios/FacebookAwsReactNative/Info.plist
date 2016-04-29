@@ -5,16 +5,16 @@
   <key>CFBundleURLTypes</key>
   <array>
     <dict>
-      <key>CFBundleURLSchemes</key>
-      <array>
-        <string>fb480608488812930</string>
-      </array>
+    <key>CFBundleURLSchemes</key>
+    <array>
+      <string>fb551186728383630</string>
+    </array>
     </dict>
   </array>
   <key>FacebookAppID</key>
-  <string>480608488812930</string>
+  <string>551186728383630</string>
   <key>FacebookDisplayName</key>
-  <string>React Native SDK Test</string>
+  <string>cognito-test</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>

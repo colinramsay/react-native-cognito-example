@@ -8,6 +8,22 @@ target 'FacebookAwsReactNative' do
   pod 'React', :subspecs => ['Core', 'RCTImage', 'RCTNetwork', 'RCTText', 'RCTWebSocket'], :path => '../node_modules/react-native'
   pod 'react-native-fbsdkcore', :path => '../node_modules/react-native-fbsdkcore'
   pod 'react-native-fbsdklogin', :path => '../node_modules/react-native-fbsdklogin'
+pod 'AWSCore'
+pod 'AWSAutoScaling'
+pod 'AWSCloudWatch'
+pod 'AWSDynamoDB'
+pod 'AWSEC2'
+pod 'AWSElasticLoadBalancing'
+pod 'AWSKinesis'
+pod 'AWSLambda'
+pod 'AWSMachineLearning'
+pod 'AWSMobileAnalytics'
+pod 'AWSS3'
+pod 'AWSSES'
+pod 'AWSSimpleDB'
+pod 'AWSSNS'
+pod 'AWSSQS'
+pod 'AWSCognito'
 end
 
 target 'FacebookAwsReactNativeTests' do
